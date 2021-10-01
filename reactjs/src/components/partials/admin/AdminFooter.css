@@ -1,0 +1,11 @@
+.admin-footer {
+	background-color: blueviolet;
+	min-height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.admin-footer .admin-footer__title {
+	font-size: 30px;
+}

@@ -1,0 +1,7 @@
+.admin-header {
+	background-color: blueviolet;
+}
+
+.admin-header .admin-header__title {
+	font-size: 30px;
+}

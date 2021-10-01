@@ -1,0 +1,12 @@
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\bin\Debug\net5.0\NongSan.ViewModels.deps.json
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\bin\Debug\net5.0\NongSan.ViewModels.dll
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\bin\Debug\net5.0\ref\NongSan.ViewModels.dll
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\bin\Debug\net5.0\NongSan.ViewModels.pdb
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\obj\Debug\net5.0\NongSan.ViewModels.csproj.AssemblyReference.cache
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\obj\Debug\net5.0\NongSan.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\obj\Debug\net5.0\NongSan.ViewModels.AssemblyInfoInputs.cache
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\obj\Debug\net5.0\NongSan.ViewModels.AssemblyInfo.cs
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\obj\Debug\net5.0\NongSan.ViewModels.csproj.CoreCompileInputs.cache
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\obj\Debug\net5.0\NongSan.ViewModels.dll
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\obj\Debug\net5.0\ref\NongSan.ViewModels.dll
+D:\Code\Project\NongSanXanh\aspnet-core\NongSan\NongSan.ViewModels\obj\Debug\net5.0\NongSan.ViewModels.pdb

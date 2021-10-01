@@ -1,0 +1,11 @@
+.provider-footer {
+	background-color: burlywood;
+	min-height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.provider-footer .provider-footer__title {
+	font-size: 30px;
+}

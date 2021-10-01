@@ -1,0 +1,11 @@
+.member-footer {
+	background-color: aqua;
+	min-height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.member-footer .member-footer__title {
+	font-size: 30px;
+}

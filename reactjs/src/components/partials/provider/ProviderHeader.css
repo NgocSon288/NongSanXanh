@@ -1,0 +1,7 @@
+.provider-header {
+	background-color: burlywood;
+}
+
+.provider-header .provider-header__title {
+	font-size: 30px;
+}

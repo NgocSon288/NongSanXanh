@@ -1,0 +1,11 @@
+.member-header {
+	background-color: aqua;
+}
+
+.member-header .member-header__title {
+	color: red;
+}
+
+.member-header .member-header__navbar {
+	list-style-type: none;
+}
